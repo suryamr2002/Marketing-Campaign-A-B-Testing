@@ -104,4 +104,4 @@ The project follows a structured data science approach:
 
 **Author:** SURYA M.R
 📧 [LinkedIn](https://www.linkedin.com/in/surya-m-r/)  
-📂 [GitHub Portfolio](https://github.com/tajamulkhann](https://suryamr2002.github.io/))
+📂 [GitHub Portfolio](https://suryamr2002.github.io/)
